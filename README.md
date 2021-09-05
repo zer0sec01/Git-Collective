@@ -4,3 +4,4 @@ Hey! I decided to make this script to make it easier to clone multiple git repos
 Follow me on Twitter and Instagram at zer0sec01
 Usage: Python3 git_collective.py
 At the end of the directory you want, make sure to put the desired folder name as well!
+YOU CAN ONLY CLONE 2 OR 3 AT A TIME! AT THE MOMENT.
